@@ -1,5 +1,4 @@
-# class-12-java-project
-class 12 grade informatics project
+# Beauty Shield
 import  javax.swing.JOptionPane;
 import  java.sql.*;
 import  javax.swing.table.DefaultTableModel;
